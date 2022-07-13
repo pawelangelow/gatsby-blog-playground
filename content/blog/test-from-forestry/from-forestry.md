@@ -17,4 +17,4 @@ Nunc vestibulum accumsan nulla, eget volutpat libero venenatis in. Aliquam nec n
   
 So **Lorem Ipsum** is the key
 
-![](/uploads/frankenstein-its-alive.gif)
+![](./frankenstein-its-alive.gif)
